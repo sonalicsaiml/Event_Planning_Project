@@ -26,6 +26,8 @@ This is a full-stack web application built using the MERN stack (MongoDB, Expres
 ## Project Structure
 
 event-planning-project/
+
+
 ├── backend/
 │   ├── config/
 │   │   └── env/                    
